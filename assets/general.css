@@ -38,12 +38,15 @@ body {
 	background: #fff;
 	position: absolute;
 	border:#eee 1px solid;
-	width: 50%;
-	left:25%;
+	width: 880px;
 	padding: 2em;
 	font-size: 12px;
 }
 
+
+.justified {
+	text-align: justify;
+}
 
 .quote {
 	font-style: italic;
