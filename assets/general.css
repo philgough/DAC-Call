@@ -64,8 +64,11 @@ li {
 }
 
 .quote {
-	font-style: italic;
+    font-style: italic;
     font-size: 1.15em;
+    margin-top: 3.5em;
+    border-top: 1px solid lightgrey;
+    border-bottom: 1px solid lightgrey;
 }
 
 .quoteName {
