@@ -1,7 +1,7 @@
 a {
-    font-family: sans-serif;
+    font-family: 'helvetica neue' sans-serif;
     color: royalblue;
-    font-size: 0.95em;
+    font-size: 1em;
 }
 a:visited {
 	color:firebrick;
@@ -16,12 +16,12 @@ b {
 h1 {
     text-align: center;
     font-weight: lighter;
-    font-family: sans-serif;
+    font-family: 'helvetica neue' sans-serif;
     font-size: 2.5em;
     margin-bottom: -1.25em;}
 
 h2 {
-    font-family: sans-serif;
+    font-family: 'helvetica neue' sans-serif;
     font-weight: lighter;
     font-size: 1.5em;
     text-align: center;
@@ -29,7 +29,7 @@ h2 {
 }
 
 h3 {
-    font-family: sans-serif;
+    font-family: 'helvetica neue' sans-serif;
     font-weight: normal;
     border-top: 10px solid lightgrey;
     padding-top: 1em;
@@ -39,7 +39,7 @@ h3 {
 }
 
 h4{
-	font-family: sans-serif;
+	font-family: 'helvetica neue' sans-serif;
 	font-weight: lighter;
 	font-size: 10px;
 	float:right;
@@ -56,6 +56,7 @@ li {
 	width: 740px;
 	padding: 2em;
 	font-size: 14px;
+    font-family: 'helvetica neue' sans-serif;
 }
 
 
