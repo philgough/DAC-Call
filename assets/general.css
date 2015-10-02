@@ -1,5 +1,5 @@
 a {
-    font-family: 'helvetica neue' sans-serif;
+    font-family: 'Helvetica Neue', sans-serif;
     color: #0B56AB;
     font-size: 1em;
 }
@@ -16,12 +16,12 @@ b {
 h1 {
     text-align: center;
     font-weight: bold;
-    font-family: 'helvetica neue' sans-serif;
+    font-family: 'Helvetica Neue', sans-serif;
     font-size: 2.5em;
 }
 
 h2 {
-    font-family: 'helvetica neue' sans-serif;
+    font-family: 'Helvetica Neue', sans-serif;
     font-weight: lighter;
     font-size: 1.5em;
     text-align: center;
@@ -29,7 +29,7 @@ h2 {
 }
 
 h3 {
-    font-family: 'helvetica neue' sans-serif;
+    font-family: 'Helvetica Neue' sans-serif;
     font-weight: normal;
     border-top: 10px solid lightgrey;
     padding-top: 1em;
@@ -39,7 +39,7 @@ h3 {
 }
 
 h4{
-	font-family: 'helvetica neue' sans-serif;
+	font-family: 'Helvetica Neue', sans-serif;
 	font-weight: lighter;
 	font-size: 10px;
 	float:right;
@@ -68,7 +68,7 @@ li {
 	width: inherit;
 	padding: 2em;
 	font-size: 14px;
-    font-family: 'helvetica neue' sans-serif;
+    font-family: 'Helvetica Neue', sans-serif;
     margin:0em;
 }
 
